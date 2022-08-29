@@ -1,6 +1,6 @@
 
 #include <stdio.h>
-#include "conio.h"
+
 
 void nhapchuoi(int array[], int length)
     {
